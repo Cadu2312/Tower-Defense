@@ -1,5 +1,6 @@
 # Tower-Defense
 Um estilo de jogo classico, aonde consiste na criação e aprimoração de torres de defesa.
+
 Cada torre tem sua utilidade e preço de criação/aprimoramento.
 
 Tutorial:
@@ -17,6 +18,7 @@ Tutorial:
 
 
 A classic game style, focused on the creation and upgrading of defense towers.
+
 Each tower has its own purpose and a cost for creation/upgrade.
 
 Tutorial:
