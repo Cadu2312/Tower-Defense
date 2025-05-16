@@ -1,7 +1,9 @@
 # Tower-Defense
-Um estilo de jogo classico, aonde consiste na criação e aprimoração de torres de defesa.
+Jogo de estratégia no estilo tower defense, desenvolvido em 3D com tela fixa.
 
-Cada torre tem sua utilidade e preço de criação/aprimoramento.
+Utilizei a engine Unity e a linguagem C# para programar a lógica do jogo, criar e posicionar os elementos de defesa, e implementar as mecânicas de jogo.
+
+O projeto envolveu a criação de um ambiente 3D imersivo e a otimização do desempenho para garantir uma experiência fluida e envolvente para os jogadores.
 
 Tutorial:
 1-Escolha a desejada
@@ -17,9 +19,11 @@ Tutorial:
 6-Divirta-se!
 
 
-A classic game style, focused on the creation and upgrading of defense towers.
+3D tower defense-style strategy game with a fixed camera view.
 
-Each tower has its own purpose and a cost for creation/upgrade.
+I used the Unity engine and the C# programming language to develop the game logic, create and position defense elements, and implement gameplay mechanics.
+
+The project involved creating an immersive 3D environment and optimizing performance to ensure a smooth and engaging experience for players.
 
 Tutorial:
 1-Choose the desired tower.
